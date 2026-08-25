@@ -186,7 +186,7 @@
 
 (function() {
     var KEY = 'keepaliveAudioEnabled';
-    var SRC = 'https://imgbed.heliar.top/i/CxzYwk59Cohc1f_O_copy_013C85AC-A1BC-4020-9F71-F2B585F8D374.m4a';
+    var SRC = 'https://imgbed.heliar.top/i/O0Mwce5nFtKHsotC_Silence .m4a';
     var _audio = null;
     var _unlockBound = false;
 
