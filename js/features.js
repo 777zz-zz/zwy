@@ -186,7 +186,7 @@
 
 (function() {
     var KEY = 'keepaliveAudioEnabled';
-    var SRC = 'https://imgbed.heliar.top/i/O0Mwce5nFtKHsotC_Silence .m4a';
+    var SRC = 'audio/silence.mp3';
     var _audio = null;
     var _unlockBound = false;
 
